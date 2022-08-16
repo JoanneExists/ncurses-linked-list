@@ -12,4 +12,3 @@ This program is pretty self-explanatory: hit the corresponding key to the menu o
 	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6
 	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2
 	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6
-	/lib64/ld-linux-x86-64.so.2
