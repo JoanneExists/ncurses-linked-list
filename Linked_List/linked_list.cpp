@@ -239,6 +239,7 @@ class Menu
                     {
                         clear();
                         printw("Error! Invalid input!");
+                        getch();
                     }
                     prompt();
                     break;
