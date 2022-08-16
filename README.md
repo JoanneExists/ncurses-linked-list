@@ -12,3 +12,8 @@ This program is pretty self-explanatory: hit the corresponding key to the menu o
 	libc
 	libdl
 	libm
+## Compiling
+To compile yourself simply run: 
+```
+g++ -o linked_list linked_list.cpp -lncurses
+```
