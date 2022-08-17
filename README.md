@@ -13,7 +13,7 @@ This program is pretty self-explanatory: hit the corresponding key to the menu o
 	libdl
 	libm
 ## Compiling
-To compile yourself simply run: 
+To compile yourself simply run this command in the same working directory as the .cpp file: 
 ```
 g++ -o linked_list linked_list.cpp -lncurses
 ```
