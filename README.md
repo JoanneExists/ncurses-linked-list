@@ -17,3 +17,5 @@ To compile yourself simply run this command in the same working directory as the
 ```
 g++ -o linked_list linked_list.cpp -lncurses
 ```
+
+Thanks for visiting my repository!!!
